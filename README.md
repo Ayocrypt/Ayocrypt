@@ -5,7 +5,7 @@ AI Guy 🤖 | Web3 Explorer 🌐 | Software Engineer 💻 | Algorithm Trader �
 ---
 
 ## 👨‍💻 About Me  
-- 🔭 I’m currently working on:  
+- 🔭 I founded and build these app, currently  working on improving them: 
   - [AI4Africa](https://ai4africa.app/) 🌍 → Building AI solutions for Africa  
   - [sms.ai4africa.app](https://sms.ai4africa.app/) ✉️ → AI-powered bulk SMS  
   - [whatsapp.ai4africa.app](http://whatsapp.ai4africa.app/) 💬 → AI-driven WhatsApp automation  
